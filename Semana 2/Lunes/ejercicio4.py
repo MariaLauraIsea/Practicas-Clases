@@ -9,9 +9,9 @@ if option == 1:
       
 elif option == 2:
     ingrediente= int(input("please enter a valid option: \n1 - peperioni \n2 - jamon \n3 - salmon \n =>"))
-        if ingrediente == 1:
+    if ingrediente == 1:
         ingrediente= 'peperoni'
-    elif:
+    elif ingrediente == 2:
         ingrediente= 'jamon'  
     else:
         ingrediente= 'salmon'
