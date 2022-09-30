@@ -1,1 +1,0 @@
-ejercicio disque medio dificil que vas a plantear
