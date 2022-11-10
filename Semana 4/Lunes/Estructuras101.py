@@ -1,0 +1,1 @@
+elementos={'hidrogeno':{'peso':1.00794,'numero':1}} #emmmm
