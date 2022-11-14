@@ -1,7 +1,7 @@
 from Automovil import Automovil
 from Motocicleta import Motocicleta
 
-#foto con ejercicio/pedir modelo
+
 
 def registro(vehiculos):
     vehiculos_objetos=[]
@@ -15,7 +15,7 @@ def registro(vehiculos):
         vehiculos_objetos.append(vehiculo)
     
     
-    return vehiculos_objetos
+    return vehiculos_objetos 
 
 
 def main():
