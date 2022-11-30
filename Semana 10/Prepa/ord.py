@@ -1,0 +1,1 @@
+x=ord('B')  #para cambiar una letra a un numero???? para ordenar listas or something
